@@ -1,0 +1,47 @@
+.bluebox {
+    background-color:rgb(10, 10, 148);
+    color:rgb(255, 255, 255);  /* white text */
+    height:100px;
+    width:100px;
+    padding: 10px;
+    border: 10px ridge;
+    border-style: groove;
+    border-color: brown;
+    border-radius: 80px;
+}
+.blue {
+    color:blue;
+}
+
+.greenbox {
+    background-color:rgb(10, 78, 10);
+    color:rgb(255, 255, 255);  /* white text */
+    height:100px;
+    width:auto;
+    padding: 40px 70px;
+    margin: 10px;
+    border: 10px solid;
+    border-color: black;
+    background-image: url(../images/dog_image.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-origin:padding-box;
+    outline-style: double;
+    outline-width: thick;
+    outline-color: red;
+}
+.yellowbox {
+   background-color:rgb(255, 255, 45);
+   color:rgb(0, 0, 0);  /* black text */
+    height:100px;
+    width:auto;
+    padding: 10px 20px 10px 30px;
+    margin: 10px;
+    border: 10px ridge;
+    border-style: groove;
+    border-radius: 100px;
+}
+
+.great {
+    font-size: 300%;
+}
